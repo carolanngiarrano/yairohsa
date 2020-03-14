@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://choghusha.lukestorer.co.uk/sitemap.xml
